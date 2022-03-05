@@ -1,0 +1,11 @@
+.films {
+height: 600px;
+display: flex;
+flex-wrap: wrap;
+/* background-color: aqua; */
+};
+
+/* .modal-dialog{
+
+    background-color: black;
+} */

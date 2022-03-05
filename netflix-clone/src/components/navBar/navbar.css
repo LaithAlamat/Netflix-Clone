@@ -1,0 +1,86 @@
+Nav{
+
+    display: flex;
+    justify-content:space-between;
+                 align-items: center;
+/* align-content: center; */
+    
+    background-color: black;
+    border-bottom: 2px solid firebrick;
+}
+
+a.nav-link{
+
+    
+    color: firebrick;
+    padding: 10px;
+    
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.nav-link:hover{
+
+    background-color: firebrick;
+}
+
+body{
+
+    background-color: black;
+}
+
+div.card-title{
+
+    color: aliceblue;
+}
+
+button{
+
+    /* background-color: rgba(65, 60, 60, 0.308); */
+    background-color: rgba(65, 60, 60, 0.308);
+    color: antiquewhite;
+    padding: 5px 5px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 2px #999;
+}
+
+
+
+div.navbar-nav{
+    display: flex;
+    justify-content:space-between;
+                 align-items: center;
+                 
+
+}
+
+.modal-content{
+border: 2px solid firebrick;
+
+    background-color: rgb(71, 71, 71);
+}
+
+.modal-title{
+display: flex;
+justify-content: space-around;
+    color: #fff;
+    border-bottom: 2px solid firebrick;
+}
+
+p{
+
+    color: #fff;
+}
+
+label.form-label{
+    color: #fff;
+}
